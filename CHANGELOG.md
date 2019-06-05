@@ -10,6 +10,9 @@
 
 * None.  
 
+## 1.6.2.1-runtastic (2019-06-05)
+
+* Add support for `xcfilelist` in `script_phase` DSL [Dimitris Koutsogiorgas](https://github.com/dnkoutso)
 
 ## 1.6.2 (2019-05-15)
 
